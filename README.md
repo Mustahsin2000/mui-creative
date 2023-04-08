@@ -1,8 +1,10 @@
-# Getting Started with Create React App
+# Craetive Agency
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Available Main Metarial Used:
+1. React
+2. Metarial UI
 
 In the project directory, you can run:
 
